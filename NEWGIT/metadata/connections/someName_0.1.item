@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_jdtv4P2OEeWyOZHMkwC7-g" name="someName" id="_FzVKoP2OEeWyOZHMkwC7-g" label="someName" dataPackage="_jfZK4P2OEeWyOZHMkwC7-g" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/test_reference?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="NZNgK6DuncI=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="test_reference" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_jdu-AP2OEeWyOZHMkwC7-g" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_jefzAP2OEeWyOZHMkwC7-g" tag="package filter" value=""/>
+    <taggedValue xmi:id="_jekEcP2OEeWyOZHMkwC7-g" tag="Status" value=""/>
+    <taggedValue xmi:id="_jekEcf2OEeWyOZHMkwC7-g" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_jekEcv2OEeWyOZHMkwC7-g" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_jekEc_2OEeWyOZHMkwC7-g" tag="Description" value=""/>
+    <taggedValue xmi:id="_jekEdP2OEeWyOZHMkwC7-g" tag="Author" value=""/>
+    <taggedValue xmi:id="_jekEdf2OEeWyOZHMkwC7-g" tag="otherParameter"/>
+    <taggedValue xmi:id="_je8e8P2OEeWyOZHMkwC7-g" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_je8e8f2OEeWyOZHMkwC7-g" tag="DB ProductVersion" value="5.6.26"/>
+    <taggedValue xmi:id="_je8e8v2OEeWyOZHMkwC7-g" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_jdu-Af2OEeWyOZHMkwC7-g" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_jfZK4P2OEeWyOZHMkwC7-g" name="test_reference" dataManager="_jdtv4P2OEeWyOZHMkwC7-g"/>
+</xmi:XMI>
