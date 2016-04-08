@@ -12,16 +12,16 @@
     <contextParameter comment="" name="someName_Context_Server" prompt="someName_Context_Server?" promptNeeded="false" type="id_String" value="localhost"/>
     <contextParameter comment="" name="someName_Context_Port" prompt="someName_Context_Port?" promptNeeded="false" type="id_String" value="3306"/>
     <contextParameter comment="" name="someName_Context_Database" prompt="someName_Context_Database?" promptNeeded="false" type="id_String" value="test_referencePROD"/>
-    <contextParameter comment="" name="someName_Context_Login" prompt="someName_Context_Login?" promptNeeded="false" type="id_String" value="root"/>
-    <contextParameter comment="" name="someName_Context_Password" prompt="someName_Context_Password?" promptNeeded="false" type="id_Password" value="NZNgK6DuncI="/>
+    <contextParameter comment="" name="someName_Context_Login" prompt="someName_Context_Login?" promptNeeded="false" type="id_String" value="dummy"/>
+    <contextParameter comment="" name="someName_Context_Password" prompt="someName_Context_Password?" promptNeeded="false" type="id_Password" value="AYjanpl5r4k="/>
     <contextParameter comment="" name="someName_Context_AdditionalParams" prompt="someName_Context_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="UAT">
     <contextParameter comment="" name="someName_Context_Server" prompt="someName_Context_Server?" promptNeeded="false" type="id_String" value="localhost"/>
     <contextParameter comment="" name="someName_Context_Port" prompt="someName_Context_Port?" promptNeeded="false" type="id_String" value="3306"/>
     <contextParameter comment="" name="someName_Context_Database" prompt="someName_Context_Database?" promptNeeded="false" type="id_String" value="test_referenceUAT"/>
-    <contextParameter comment="" name="someName_Context_Login" prompt="someName_Context_Login?" promptNeeded="false" type="id_String" value="root"/>
-    <contextParameter comment="" name="someName_Context_Password" prompt="someName_Context_Password?" promptNeeded="false" type="id_Password" value="NZNgK6DuncI="/>
+    <contextParameter comment="" name="someName_Context_Login" prompt="someName_Context_Login?" promptNeeded="false" type="id_String" value="dummy"/>
+    <contextParameter comment="" name="someName_Context_Password" prompt="someName_Context_Password?" promptNeeded="false" type="id_Password" value="AYjanpl5r4k="/>
     <contextParameter comment="" name="someName_Context_AdditionalParams" prompt="someName_Context_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
   </talendfile:ContextType>
 </xmi:XMI>
