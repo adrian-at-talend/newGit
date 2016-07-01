@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_SO5MQD-hEeaqpN_Tx4FsAg" name="someODBC" id="_Bbjx8D-hEeaqpN_Tx4FsAg" label="someODBC" DatabaseType="Generic ODBC (Unsupported)" DriverClass="sun.jdbc.odbc.JdbcOdbcDriver" URL="jdbc:odbc:test" Port="" Username="" Password="" ServerName="" DatasourceName="test" FileFieldName="" SID="" SqlSynthax="SQL Syntax" DbmsId="MSODBC" ProductId="ODBC" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="_SO5MQT-hEeaqpN_Tx4FsAg" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_SQhj8D-hEeaqpN_Tx4FsAg" tag="package filter" value=""/>
+</TalendMetadata:DatabaseConnection>
